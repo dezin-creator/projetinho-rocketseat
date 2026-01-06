@@ -60,9 +60,8 @@ body * {
 #switch {
   position: relative;
   width: 64px;
-  margin: 4px auto;
 
-  cursor: pointer;
+  margin: 4px auto;
 }
 
 #switch button {
